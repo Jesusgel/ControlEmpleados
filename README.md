@@ -1,4 +1,4 @@
-# ControlEmpleados
+# ControlEmpleados 1.0
 Practicas de C#
 
 Este proyecto lo hice para practicar aspectos de C# 
